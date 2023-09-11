@@ -8,4 +8,4 @@ export const PieChartWrapper:React.FC=()=> {
             <PieChart data={PieDataDummy} sortByValue={false} />
             </div>
     </div>
-}
+} 
